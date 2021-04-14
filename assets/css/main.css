@@ -53,9 +53,11 @@ li {list-style-type:disc;}
 	padding-right:10px;
 }
 .photo{
-	float:left;
-	width:100%;
-	padding-top:10px;
+	 float:left;
+	 width:80%;
+	 height: 200px;
+	 background-image: url('../images/photo.png');
+	 background-size: cover;
 }
 .photo img{
 	width: 85%;
